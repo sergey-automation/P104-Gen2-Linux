@@ -1,0 +1,13 @@
+Timestamp: 2026-11-09T13:28:02.936319+02:00
+GPU PCI BDF: 0000:0f:00.0
+Current PCIe link: 2.5 GT/s PCIe, x1
+Transfer: 32 MiB, pinned host memory
+Rounds per direction: 3
+H2D (RAM -> GPU) round 1: 0.199537 GB/s (168.162 ms)
+H2D (RAM -> GPU) round 2: 0.199652 GB/s (168.065 ms)
+H2D (RAM -> GPU) round 3: 0.199832 GB/s (167.914 ms)
+H2D (RAM -> GPU) median: 0.199652 GB/s
+D2H (GPU -> RAM) round 1: 0.208926 GB/s (160.605 ms)
+D2H (GPU -> RAM) round 2: 0.208962 GB/s (160.576 ms)
+D2H (GPU -> RAM) round 3: 0.208611 GB/s (160.847 ms)
+D2H (GPU -> RAM) median: 0.208926 GB/s
